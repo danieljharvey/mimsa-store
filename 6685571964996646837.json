@@ -1,0 +1,1 @@
+{"storeExpression":{"tag":"MyLambda","contents":["f",{"tag":"MyApp","contents":[{"tag":"MyVar","contents":"maybeMap"},{"tag":"MyApp","contents":[{"tag":"MyVar","contents":"listMap"},{"tag":"MyVar","contents":"f"}]}]}]},"storeBindings":{"maybeMap":8101176468521092070,"listMap":-8393359916483807857}}
