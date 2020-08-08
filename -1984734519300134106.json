@@ -1,0 +1,1 @@
+{"storeExpression":{"tag":"MyLambda","contents":["d",{"tag":"MyLambda","contents":["e",{"tag":"MyLambda","contents":["a",{"tag":"MyApp","contents":[{"tag":"MyVar","contents":"d"},{"tag":"MyApp","contents":[{"tag":"MyVar","contents":"e"},{"tag":"MyVar","contents":"a"}]}]}]}]}]},"storeBindings":{}}

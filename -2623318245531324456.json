@@ -1,0 +1,1 @@
+{"storeExpression":{"tag":"MyRecord","contents":{"uncons":{"tag":"MyVar","contents":"listUncons"},"head":{"tag":"MyVar","contents":"listHead"},"tail":{"tag":"MyVar","contents":"listTail"},"cons":{"tag":"MyVar","contents":"listCons"}}},"storeBindings":{"listHead":1953726645363168368,"listUncons":5786752603415343193,"listTail":-6886179992596209944,"listCons":5719869667529892852}}
