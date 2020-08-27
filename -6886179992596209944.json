@@ -1,1 +1,0 @@
-{"storeExpression":{"tag":"MyApp","contents":[{"tag":"MyApp","contents":[{"tag":"MyVar","contents":"compose"},{"tag":"MyVar","contents":"snd"}]},{"tag":"MyVar","contents":"listUncons"}]},"storeBindings":{"listUncons":5786752603415343193,"compose":3491919796978032982,"snd":322269108453550075}}
