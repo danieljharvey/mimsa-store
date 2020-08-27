@@ -1,1 +1,0 @@
-{"storeExpression":{"tag":"MyLambda","contents":["a",{"tag":"MyLetList","contents":["head","tail",{"tag":"MyVar","contents":"a"},{"tag":"MyPair","contents":[{"tag":"MyVar","contents":"head"},{"tag":"MyVar","contents":"tail"}]}]}]},"storeBindings":{}}
