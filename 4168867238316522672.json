@@ -1,0 +1,1 @@
+{"storeExpression":{"tag":"MyData","contents":[{"dtConstructors":{"Left":[{"tag":"VarName","contents":"e"}],"Right":[{"tag":"VarName","contents":"a"}]},"dtName":"Either","dtVars":["e","a"]},{"tag":"MyRecord","contents":{}}]},"storeBindings":{},"storeTypeBindings":{}}

@@ -1,0 +1,1 @@
+{"storeExpression":{"tag":"MyData","contents":[{"dtConstructors":{"Branch":[{"tag":"ConsName","contents":["Leaf",[]]},{"tag":"VarName","contents":"a"},{"tag":"ConsName","contents":["Leaf",[]]}],"Leaf":[]},"dtName":"Tree","dtVars":["a"]},{"tag":"MyRecord","contents":{}}]},"storeBindings":{},"storeTypeBindings":{}}
